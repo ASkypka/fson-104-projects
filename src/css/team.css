@@ -1,0 +1,9 @@
+.team {
+    background-color: blue;
+}
+
+
+.team .container {
+    background-color: blueviolet;
+    padding: 20px 0;
+}
