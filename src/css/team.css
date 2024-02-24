@@ -1,0 +1,11 @@
+.team {
+    background-color: blue;
+}
+
+
+.team .container {
+    background-color: blueviolet;
+    padding: 50px 0;
+    margin: 0 auto;
+
+}
